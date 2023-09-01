@@ -1,7 +1,7 @@
 //TASK 3
 // TIC-TAC-TOE GAME
 /** Build a simple console based Tic-Tac-Toe Game that allows two players 
-    to play against each other. - By Akanksha Pundir **/
+    to play against each other.   - By Akanksha Pundir **/
 #include <iostream>
 #include<list>
 #include <cstdlib>
